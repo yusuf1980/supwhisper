@@ -3,6 +3,7 @@ A Windows app for offline transcription and subtitle generation.
 
 This repository is used to distribute the Windows installer.
 
+![Screenshot](screenshot/p_transcript.png)
 
 ## Download
 Get the latest release from the Releases page:
