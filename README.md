@@ -4,9 +4,10 @@ A Windows app for offline transcription and subtitle generation.
 This repository is used to distribute the Windows installer.
 
 
-
 ## Download
 Get the latest release from the Releases page:
+
+➡ https://github.com/yusuf1980/supwhisper/releases/latest
 
 
 ## Features:
