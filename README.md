@@ -9,7 +9,6 @@ This repository is used to distribute the Windows installer.
 Get the latest release from the Releases page:
 
 
-
 ## Features:
 - Transcribe audio or video files effortlessly right from your Windows PC.
 - Supporting both CPU and NVIDIA GPU acceleration for optimal performance.
